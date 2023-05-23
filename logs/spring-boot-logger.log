@@ -1,0 +1,47 @@
+traceid: ,spanid:  2023-05-23 09:50:07,167 INFO [main] Starting SpringWebfluxHandlingExecptionsApplication using Java 17.0.2 with PID 5820 (C:\Users\draghav\Documents\project\temp\spring-webflux-handling-execptions-main\target\classes started by draghav in C:\Users\draghav\Documents\project\temp\spring-webflux-handling-execptions-main)
+traceid: ,spanid:  2023-05-23 09:50:07,191 INFO [main] No active profile set, falling back to 1 default profile: "default"
+traceid: ,spanid:  2023-05-23 09:50:10,203 INFO [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+traceid: ,spanid:  2023-05-23 09:50:10,991 INFO [main] Netty started on port 8080
+traceid: ,spanid:  2023-05-23 09:50:11,005 INFO [main] Started SpringWebfluxHandlingExecptionsApplication in 4.579 seconds (process running for 6.82)
+traceid: ,spanid:  2023-05-23 09:50:43,775 INFO [reactor-http-nio-2] test
+traceid: ,spanid:  2023-05-23 09:50:43,778 INFO [reactor-http-nio-2] dummy error respone
+traceid: ,spanid:  2023-05-23 09:52:17,817 INFO [main] Starting SpringWebfluxHandlingExecptionsApplication using Java 17.0.2 with PID 23388 (C:\Users\draghav\Documents\project\temp\spring-webflux-handling-execptions-main\target\classes started by draghav in C:\Users\draghav\Documents\project\temp\spring-webflux-handling-execptions-main)
+traceid: ,spanid:  2023-05-23 09:52:17,820 INFO [main] No active profile set, falling back to 1 default profile: "default"
+traceid: ,spanid:  2023-05-23 09:52:19,425 INFO [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+traceid: ,spanid:  2023-05-23 09:52:19,927 INFO [main] Netty started on port 8080
+traceid: ,spanid:  2023-05-23 09:52:19,941 INFO [main] Started SpringWebfluxHandlingExecptionsApplication in 2.44 seconds (process running for 3.017)
+traceid: ,spanid:  2023-05-23 09:52:26,350 INFO [reactor-http-nio-2] in webfilter io.micrometer.tracing.brave.bridge.BraveTracer@15a21b3e span: null
+traceid: ,spanid:  2023-05-23 09:52:26,387 INFO [reactor-http-nio-2] test
+traceid: ,spanid:  2023-05-23 09:52:26,389 INFO [reactor-http-nio-2] dummy error respone
+traceid: ,spanid:  2023-05-23 10:25:49,269 INFO [main] Starting SpringWebfluxHandlingExecptionsApplication using Java 17.0.2 with PID 10892 (C:\Users\draghav\Documents\project\temp\spring-webflux-handling-execptions-main\target\classes started by draghav in C:\Users\draghav\Documents\project\temp\spring-webflux-handling-execptions-main)
+traceid: ,spanid:  2023-05-23 10:25:49,272 INFO [main] No active profile set, falling back to 1 default profile: "default"
+traceid: ,spanid:  2023-05-23 10:25:51,056 INFO [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+traceid: ,spanid:  2023-05-23 10:25:51,637 INFO [main] Netty started on port 8080
+traceid: ,spanid:  2023-05-23 10:25:51,650 INFO [main] Started SpringWebfluxHandlingExecptionsApplication in 2.767 seconds (process running for 3.616)
+traceid: ,spanid:  2023-05-23 10:25:59,160 INFO [reactor-http-nio-2] in webfilter io.micrometer.tracing.brave.bridge.BraveTracer@6df9c667 span: null
+traceid: ,spanid:  2023-05-23 10:25:59,199 INFO [reactor-http-nio-2] test
+traceid: ,spanid:  2023-05-23 10:25:59,201 INFO [reactor-http-nio-2] dummy error respone
+traceid: ,spanid:  2023-05-23 10:53:19,703 INFO [main] Starting SpringWebfluxHandlingExecptionsApplication using Java 17.0.2 with PID 7764 (C:\Users\draghav\Documents\project\temp\spring-webflux-handling-execptions-main\target\classes started by draghav in C:\Users\draghav\Documents\project\temp\spring-webflux-handling-execptions-main)
+traceid: ,spanid:  2023-05-23 10:53:19,707 INFO [main] No active profile set, falling back to 1 default profile: "default"
+traceid: ,spanid:  2023-05-23 10:53:21,553 INFO [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+traceid: ,spanid:  2023-05-23 10:53:22,180 INFO [main] Netty started on port 8080
+traceid: ,spanid:  2023-05-23 10:53:22,194 INFO [main] Started SpringWebfluxHandlingExecptionsApplication in 2.916 seconds (process running for 3.833)
+traceid: ,spanid:  2023-05-23 11:10:42,091 INFO [reactor-http-nio-2] in webfilter io.micrometer.tracing.brave.bridge.BraveTracer@9c08d18 span: null
+traceid: ,spanid:  2023-05-23 11:10:42,138 INFO [reactor-http-nio-2] test
+traceid: ,spanid:  2023-05-23 11:10:42,145 INFO [reactor-http-nio-2] dummy error respone
+traceid: ,spanid:  2023-05-23 11:15:15,883 INFO [main] Starting SpringWebfluxHandlingExecptionsApplication using Java 17.0.2 with PID 2208 (C:\Users\draghav\Documents\project\temp\spring-webflux-handling-execptions-main\target\classes started by draghav in C:\Users\draghav\Documents\project\temp\spring-webflux-handling-execptions-main)
+traceid: ,spanid:  2023-05-23 11:15:15,893 INFO [main] No active profile set, falling back to 1 default profile: "default"
+traceid: ,spanid:  2023-05-23 11:15:17,948 INFO [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+traceid: ,spanid:  2023-05-23 11:15:18,619 INFO [main] Netty started on port 8080
+traceid: ,spanid:  2023-05-23 11:15:18,636 INFO [main] Started SpringWebfluxHandlingExecptionsApplication in 3.348 seconds (process running for 5.053)
+traceid: ,spanid:  2023-05-23 11:15:51,768 INFO [reactor-http-nio-2] in webfilter io.micrometer.tracing.brave.bridge.BraveTracer@6cb5687 span: null
+traceid: ,spanid:  2023-05-23 11:15:51,800 INFO [reactor-http-nio-2] test
+traceid: ,spanid:  2023-05-23 11:15:51,806 INFO [reactor-http-nio-2] dummy error respone
+traceid: ,spanid:  2023-05-23 11:28:32,508 INFO [main] Starting SpringWebfluxHandlingExecptionsApplication using Java 17.0.2 with PID 26116 (C:\Users\draghav\Documents\project\temp\spring-webflux-handling-execptions-main\target\classes started by draghav in C:\Users\draghav\Documents\project\temp\spring-webflux-handling-execptions-main)
+traceid: ,spanid:  2023-05-23 11:28:32,513 INFO [main] No active profile set, falling back to 1 default profile: "default"
+traceid: ,spanid:  2023-05-23 11:28:34,264 INFO [main] Exposing 1 endpoint(s) beneath base path '/actuator'
+traceid: ,spanid:  2023-05-23 11:28:35,030 INFO [main] Netty started on port 8080
+traceid: ,spanid:  2023-05-23 11:28:35,045 INFO [main] Started SpringWebfluxHandlingExecptionsApplication in 3.045 seconds (process running for 4.136)
+traceid: 646c5610fbe20788934807ab69d07bfe,spanid: 934807ab69d07bfe 2023-05-23 11:28:40,043 INFO [reactor-http-nio-2] in webfilter io.micrometer.tracing.brave.bridge.BraveTracer@3e26ed9d span: LazySpan(646c5610fbe20788934807ab69d07bfe/934807ab69d07bfe)
+traceid: ,spanid:  2023-05-23 11:28:40,072 INFO [reactor-http-nio-2] test
+traceid: ,spanid:  2023-05-23 11:28:40,079 INFO [reactor-http-nio-2] dummy error respone
